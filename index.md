@@ -11,5 +11,5 @@ I wanted to start programming again after a long period of time so, based on wha
 
 
 ------------ | -------------
-Content from cell 1 | Content 
+###### [1]dig deep you discover the infinite galaxy of packages (python libraries) that make the real difference. There are literally thousands of them available for pretty much anything. | 
 
