@@ -9,3 +9,7 @@ I wanted to start programming again after a long period of time so, based on wha
 ## 2) Spotify
 ##### Synopsis + some first consideration about Python
 
+
+------------ | -------------
+Content from cell 1 | Content 
+
