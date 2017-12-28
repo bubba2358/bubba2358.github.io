@@ -9,7 +9,7 @@ Also about the Python existing versions. Python 2.x comes preinstalled on OSX bu
 > ##### Python Online Book Beginner https://pypi.python.org/pypi
 > ##### Python Online Book Med https://pypi.python.org/pypi
 
-## 2) Learn to say Mum
+## 2) Learn to say Tuple
 #### Everything in Python is an object (but you'are not forced to do OOP)
 I'm not gonna talk much about the learning process. Basically the core of the sintax is the same as most languages except for the **indentation** thing that was quite peculiar to me. In Python you declare 'blocks' simply with a `:` and mandatory indentation:
 ```python
