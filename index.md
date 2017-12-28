@@ -9,21 +9,18 @@ That said, let's move on some more interesting stuff. So about the Python (two) 
 > ##### Python Online Book Med https://pypi.python.org/pypi
 
 ## 2) The scripting Language
-I'm not gonna talk much about the learning process of the basics. Basically the core of the sintax is the same as most languages exept for the **indentation** thing that was quite peculiar to me. In Python you declare 'blocks' simply with a ':' and indentation:
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-in Python spells:
+I'm not gonna talk much about the learning process. Basically the core of the sintax is the same as most languages except for the **indentation** thing that was quite peculiar to me. In Python you declare 'blocks' simply with a ':' and mandatory indentation:
 
 ```python
-if (isAwesome){
-  return true
-}
+if isAwesome:
+  if isHuge:
+    return True
 ```
-
+Other things to keep in mind:
+1. Everything is an **object**
+2. List are *arrays* but more flexible (can contain different type of stuff as for point n1)
+3. Tuples are non mutable lists
+4. List comprehension seems very powerful. More on this later
 
 
 ## 3) Spotify
